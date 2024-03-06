@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# Welcome to Machinehood
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Machinehood is an attempt to encourage like-minded people like you to learn machine learning and artificial intelligence (ML &AI)concepts, practice its algorithms to become skillful in the subject, solve the problems you find around you, and ultimately pass on the knowledge to those who are starting into the field. 
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## What you find here
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* The content for each course of ML & AI
+* Some useful references
+* Some YouTube links related to ML & AI
+
+
+!!! important "When will the content available?"
+    
+    The content will be published peridically as a set of topics.
